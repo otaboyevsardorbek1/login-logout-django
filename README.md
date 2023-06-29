@@ -1,8 +1,8 @@
 # login-logout-django
 Django is the best framework to build dynamic website in Python. So today i created a simple Registration, Login and Logout system in Django Framework.
 
-### Video Demonstration
-[Video is here](https://youtu.be/XiEbvMYU77k)
+### ADMIN
+[DEMO ADMIN](https://dev.to/madhubankhatri)
 
 ### Project Details
 * Registeration of User
